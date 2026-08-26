@@ -1,1 +1,36 @@
+body {
+     background-color: #f4flea;
+     color: #222222;
+     font-family: Arial, sans-serif;
+     margin: 0;
+}
 
+header {
+    bckground-color: #6b2d5c;
+    color: white;
+    text-align: center;
+    passing: 30px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    color: #6b2d5c;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+nav {
+     margin-top: 20px;
+}
+
+nav a {
+    color: white; 
+    text-decoration: none;
+    background-color: #9b4d83;
+}
